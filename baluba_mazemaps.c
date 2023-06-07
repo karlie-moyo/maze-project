@@ -2,7 +2,7 @@
 #include "main.h"
 
 /**
- * @Filename babula_mazemaps.c
+ * @Filename baluba_mazemaps.c
  * @Author Karlie Moyo
  * @Dated 07-05-2023
  *
