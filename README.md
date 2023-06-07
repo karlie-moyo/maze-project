@@ -1,4 +1,4 @@
-Maze Project is an Adventure game story line and locations. Written by girl Karlie Moyo by Abraham Olagungu.
+Maze Project is an Adventure game story line and locations. Written by your girl Karlie Moyo. Inspired by Abraham Olagungu.
 
 
 
