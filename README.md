@@ -5,9 +5,6 @@ Maze Project is an Adventure game story line and locations. Written by your girl
 
 
 
-
-
-
 | TASK | FILE NAME                                                                 | DESCRIPTION |
 | ---- | -------------------------------------------------------------------- | ----------- |
 | 0    | [maze.h](./maze.h)                                                   |  Project files prototypes.          |
@@ -23,4 +20,4 @@ Maze Project is an Adventure game story line and locations. Written by your girl
 | 10  | [katanga_mazemaps.c](./katanga_mazemaps.c)                            |  Shows the postion of the player at any point within the katanga maze.                                  
 | 11  | [kalakuta.c](./kalakuta.c)                                            |  Function that controls all player activities within the kalakuta maze.
 | 12  | [kalakuta_mazemaps.c](./kalakuta_mazemaps.c)                          |  Shows the postion of the player at any point within the kalakuta maze.                   
-|
+
