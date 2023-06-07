@@ -8,8 +8,8 @@ Maze Project is an Adventure game story line and locations.
 
 
 
-
-PROJECT                                             |DESCRIPTION                          |       
+-------------------------------------------------------------------------------------------|
+PROJECT              |DESCRIPTION                          |       
 ------------------------------------------------------------------------------------------|
  
 [maze.h](https://github.com/Karlie-crypto/maze-project/blob/main/maze.h)
