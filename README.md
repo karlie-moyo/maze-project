@@ -21,4 +21,5 @@ Maze Project is an Adventure game story line and locations. Written by your girl
 | 6    | [mallam_mazemaps.c](./mallam_mazemaps.c)                             |             |
 | 7    | [baluba.c](./baluba.c)                                               |
 |
-
+| 8    | [baluba_mazemaps.c](./baluba_mazemaps.c)                             |             |
+| 9    |
