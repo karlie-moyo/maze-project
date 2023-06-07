@@ -8,7 +8,7 @@ Maze Project is an Adventure game story line and locations. Written by your girl
 
 
 
-| TASK | FILE                                                                 | DESCRIPTION |
+| TASK | FILE NAME                                                                 | DESCRIPTION |
 | ---- | -------------------------------------------------------------------- | ----------- |
 | 0    | [maze.h](./maze.h)                                                   |  Project files prototypes.          |
 | 1    | [main.c](./main.c)                                                   |  Function driver of the program.          |
