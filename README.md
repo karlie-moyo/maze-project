@@ -9,15 +9,15 @@ Maze Project is an Adventure game story line and locations.
 
 
 ------------------------------------------------------------------------------------------------
-PROJECT                                           DESCRIPTION                                 
--------------------------------------------------------------------------------------------------
+PROJECT                                           |DESCRIPTION                                 
+--------------------------------------------------|----------------------------------------------
  
-[maze.h](https://github.com/Karlie-crypto/maze-project/blob/main/maze.h)
----------------------------------------------------------------------------------------------------
-[main.c](https://github.com/Karlie-crypto/maze-project/blob/main/main.c)
----------------------------------------------------------------------------------------------------
-[maze_treasures.c](https://github.com/Karlie-crypto/maze-project/blob/main/maze-treasures.c)
-----------------------------------------------------------------------------------------------------
-[function_storyline.c](https://github.com/Karlie-crypto/maze-project/blob/main/function_storyline.c)
-----------------------------------------------------------------------------------------------------
+[maze.h](https://github.com/Karlie-crypto/maze-proj|ect/blob/main/maze.h)
+---------------------------------------------------|-----------------------------------------------
+[main.c](https://github.com/Karlie-crypto/maze-proje|ct/blob/main/main.c)
+----------------------------------------------------|----------------------------------------------
+[maze_treasures.c](https://github.com/Karlie-crypto/m|aze-project/blob/main/maze-treasures.c)
+-----------------------------------------------------|-----------------------------------------------
+[function_storyline.c](https://github.com/Karlie-crypt|o/maze-project/blob/main/function_storyline.c)
+------------------------------------------------------|---------------------------------------------
 
