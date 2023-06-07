@@ -2,7 +2,7 @@
 #include "main.h"
 
 /**
- * @Filename maze-treasures.c
+ * @Filename babula_mazemaps.c
  * @Author Karlie Moyo
  * @Dated 07-05-2023
  *
