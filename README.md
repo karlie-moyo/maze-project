@@ -13,6 +13,8 @@ PROJECT                                           |DESCRIPTION
 --------------------------------------------------|----------------------------------------------
  
 [maze.h](https://github.com/Karlie-crypto/maze-project/blob/main/maze.h)
+
+
 ---------------------------------------------------|---------------------------------------------|
 
 [main.c](https://github.com/Karlie-crypto/maze-project/blob/main/main.c)
