@@ -18,14 +18,6 @@ PROJECT                                           |DESCRIPTION
 
 [maze_treasures.c](https://github.com/Karlie-crypto/maze-project/blob/main/maze-treasures.c)
 
-[function_storyline.c](https://github.com/Karlie-crypt|o/maze-project/blob/main/function_storyline.c)
-
-
-
- Task      Project                                                             Description
-| ---- | -------------------------------------------------------------------- | ----------- |
-| 0    | [maze.h](./maze.h)                     |             |
-| 1    | [main.c](./main.c)                         |             |
-| 2    | [100-port_listening_on_localhost](./100-port_listening_on_localhost) |             |
+[function_storyline.c](https://github.com/Karlie-crypt|o/maze-project/blob/main/function_storyline.c)            
 
 
