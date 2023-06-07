@@ -20,4 +20,5 @@ Maze Project is an Adventure game story line and locations. Written by your girl
 | 7    | [baluba.c](./baluba.c)                                               |    Function that controls all player activities within the baluba maze.          |
 | 8    | [baluba_mazemaps.c](./baluba_mazemaps.c)                             |   Function that controls all player activities within the baluba maze.          |
 | 9   | [katanga.c](./katanga.c)                                              |  Function that controls all player activities within the katanga maze.
-| 10  | [katanga_mazemaps.c](./katanga_mazemaps.c)                            |  Shows the postion of the player at any point within the katanga maze.
+| 10  | [katanga_mazemaps.c](./katanga_mazemaps.c)                            |  Shows the postion of the player at any point within the katanga maze.                                  | 11  | [kalakuta.c](./kalakuta.c)                                            |  Function that controls all player activities within the kalakuta maze.
+| 12  | [kalakuta_mazemaps.c](./kalakuta_mazemaps.c)                          |  Shows the postion of the player at any point within the kalakuta maze.
