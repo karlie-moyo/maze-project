@@ -2,7 +2,7 @@
 #include "main.h"
 
 /**
- * @Filename maze-treasures.c
+ * @Filename mallam_mazemaps.c
  * @Author Karlie Moyo
  * @Dated 05-05-2023
  *
