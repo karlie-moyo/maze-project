@@ -3,7 +3,7 @@
 #include "main.h"
 
 /**
- * @Filename maze-treasures.c
+ * @Filename katanga.c
  * @Author Karlie Moyo
  * @Dated 09-05-2023
  * 
