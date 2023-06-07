@@ -12,9 +12,9 @@ Maze Project is an Adventure game story line and locations. Written by your girl
 
 | TASK | FILE                                                                 | DESCRIPTION |
 | ---- | -------------------------------------------------------------------- | ----------- |
-| 0    | [maze.h](./maze.h)                                                   |  Project files and description.          |
-| 1    | [main.c](./main.c)                                                   |             |
-| 2    | [mallam.c](./mallam.c)                                               |             |
+| 0    | [maze.h](./maze.h)                                                   |  Project files prototypes.          |
+| 1    | [main.c](./main.c)                                                   |  Function driver of the program           |
+| 2    | [mallam.c](./mallam.c)                                               |  Function that controls all player activities within the mallam maze          |
 | 3    | [maze-locations.c](./maze-locations.c)                               |             |                                                                                           
 | 4    | [maze-treasures.c](./maze-treasures.c)                               |             |                                                                                       
 | 5    | [function_storyline.c](./function_storyline.c)                       |             |
