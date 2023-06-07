@@ -1,5 +1,12 @@
 Maze Project is an Adventure game story line and locations. Written by your girl Karlie Moyo. Inspired by Abraham Olagungu.
 
+![image](https://github.com/Karlie-crypto/maze-project/assets/110098940/11b7be09-ff95-4ff2-89b9-8cbf2741331a)
+
+
+
+
+
+
 
 
 ![image](https://github.com/Karlie-crypto/maze-project/assets/110098940/b6ef8976-77be-4002-a90c-c1b21e9d1def)
