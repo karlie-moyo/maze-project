@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <windows.h>
 #include <string.h>
 #include <sys/time.h>
 #include "main.h"
@@ -81,7 +80,7 @@ void main()
         printf("\n  These past few months have been wonderful and it's been really great");
         printf("\n  getting to know you.");
         printf("\n  It has been a fulfilling trip. My name once again, is the Queen Karlie");
-        printf("\n  and you can reach out to me at aysuarex@gmail.com for more amazing tours");
+        printf("\n  and you can reach out to me at karlieemoyo@gmail.com for more amazing tours");
         printf("\n  like this one.");
         printf("\n  Have a safe flight home. Bye-Bye!");
         printf("\n\n--------------------------------------------------------------------------------");
