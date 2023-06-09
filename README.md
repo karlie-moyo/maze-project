@@ -1,6 +1,5 @@
 Maze Project is an Adventure game story line and locations, Written by your girl Karlie Moyo 💞🧞‍♀️
 
-![image](https://github.com/Karlie-crypto/maze-project/assets/110098940/11b7be09-ff95-4ff2-89b9-8cbf2741331a)
 
 
 
