@@ -1,6 +1,6 @@
 #ifndef __MAIN_H__
 #define __MAIN_H__
-i
+
 void main();
 
 void mallam();
