@@ -1,7 +1,7 @@
 #ifndef __MAIN_H__
 #define __MAIN_H__
 
-void main();
+int main();
 
 void mallam();
 void mallam_map();
