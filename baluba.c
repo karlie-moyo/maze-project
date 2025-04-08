@@ -7,7 +7,7 @@
  * @Author Karlie Moyo
  * @Dated 07-05-2023
  *
- * baluba - function that controls all player activities within the baluba maze
+ * baluba - function that controls all player activities within the baluba maze story
  */
 
 char dir0, dir1, dir2, dir3, dir4, dir5, dir6, dir7, dir8, dir9, dir10, dir11, dir12, dir13;
